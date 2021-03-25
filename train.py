@@ -387,7 +387,7 @@ def tfrecord_to_tensor(example):
     heatmap_48 = get_heatmap(landmark_48,(48,48))
 
     inputs = (img_192_2_24,img_24_2_48,img_24_2_96,img_24_2_192)
-    targets = (id_info,id_info,id_info,img_192_2_96,target,heatmap_48,heatmap_96,img_192_2_48,img_192_2_96,target)
+    targets = (img_192_2_96,target,heatmap_48,heatmap_96,img_192_2_48,img_192_2_96,target)
 
 
 
