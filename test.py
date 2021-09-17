@@ -558,7 +558,7 @@ if __name__ == '__main__':
             model.load_weights('model/facenet.hdf5')
         elif (args.model=='GAN'):
             model = GAN(1e-3).combined
-            model.load_weights('E:/lzl/GAN_w/model001_TEST_0040.hdf5')
+            model.load_weights('model/GAN.hdf5')
         else:
             model = superFAN_Concat()
             model.load_weights('model/final.hdf5')
