@@ -1,6 +1,6 @@
 # CSRNet
 
-## dependencies
+## Dependencies
 
 tensorflow 2.4.0
 python 3.7.7
@@ -49,10 +49,13 @@ Then simply run:
 ## Dataset & model weights
 
 link : https://pan.baidu.com/s/1vZH1Wvg-rfC6e0ckP6rQ1g 
+
 password: y7ns 
 
-Our test set is placed at  'helen' and 'celeba' directory
-Also, weight file of our model is placed at 'model' directory 
+Our test set is placed at  'dataset/helen.zip' and 'dataset/celeba' directory
+while weight file of our model is placed at 'models' directory 
+
+Part of our training set is placed at 'dataset/WebFace_train1.tfrecords','dataset/WebFace_train2.tfrecords'
 ### other files
 
 Hourglass.py defines the structure of our hourglass model, while 'mtcnn' directory , inception_resnet_v1_tf2.py defines the structure of our facenet.
