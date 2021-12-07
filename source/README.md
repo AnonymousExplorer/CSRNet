@@ -32,6 +32,8 @@ You can also check the performance of our model using our testset.
 
 ![](../resource/table.png)
 
+
+![](../resource/table2.png)
 ## Train model
 
 train.py is the code we used to train CSRNet. 
@@ -52,7 +54,7 @@ link : https://pan.baidu.com/s/1vZH1Wvg-rfC6e0ckP6rQ1g
 
 password: y7ns 
 
-Our test set is placed at  'dataset/helen.zip' and 'dataset/celeba' directory
+Our test set is placed at  'dataset/helen.zip' and 'dataset/celeba.zip' directory
 while weight file of our model is placed at 'models' directory 
 
 Part of our training set is placed at 'dataset/WebFace_train1.tfrecords','dataset/WebFace_train2.tfrecords'
