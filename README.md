@@ -8,5 +8,5 @@ Source code is available in ./source
 ## Architecture
 ![](./resource/architecture.png)
 
-## Comparison with existing method
+## Comparison
 ![](./resource/comparison.png)
