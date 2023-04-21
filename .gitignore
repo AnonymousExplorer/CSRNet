@@ -1,0 +1,7 @@
+*.pth 
+*.pt
+*.png
+*.ipynb
+events*
+__pycache__
+*.hdf5
