@@ -1,6 +1,6 @@
-Some Baselines code is available in:
+Most of our baselines' code are available in: https://lmi.fe.uni-lj.si/en/research/fh/
 
-Also we use DIC official code: to reproduce experiments and the weights is avaiable in:
+Also we use DIC official code: to reproduce experiments and the model weights are avaiable in the [Baiduyun](https://pan.baidu.com/s/1vZH1Wvg-rfC6e0ckP6rQ1g?pwd=y7ns).
 
-PCRCN and RCNet weights is available in:
+PCRCN and RCNet weights are also available in the  [Baiduyun](https://pan.baidu.com/s/1vZH1Wvg-rfC6e0ckP6rQ1g?pwd=y7ns).
 
